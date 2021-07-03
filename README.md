@@ -13,6 +13,7 @@ Demonstração da tela desenolvida abaixo:
 ## <a> ⚙️ Implementações  🚧 🚀 Em construção...  🚧 </a>
 
 - [ ] Modo tema Dark
+- [ ] Responsividade
 
 
 
