@@ -7,10 +7,31 @@
     font-size: 14px;
 }
 
+[data-theme='light'] {
+    --bg-color:rgb(243, 243, 243);
+    --color:#333;
+    --togglebg: #d4ed7d5;
+    --toggleslider: #fff;
+    --roundcolor: #fff;
+    --svgcolor: #111;
+}
+
+[data-theme='dark'] {
+    --bg-color: #333333;
+    --color:#e9dcdc;
+    --togglebg: #d333;
+    --toggleslider: #e9dcdc;
+    --roundcolor: #333;
+    --svgcolor: #fff;
+    
+}
+
 body {
     width: 100%;
     min-height: 100vh;
-    background-color: rgb(243, 243, 243);
+    background-color: var(--bg-color);
+    transition: all 0.5s;
+    line-height: 1.4;
     margin: 0;
     padding: 0;
     display: flex;
