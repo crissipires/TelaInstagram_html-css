@@ -10,10 +10,6 @@ Demonstração da tela desenolvida abaixo:
     <img src='https://i.imgur.com/XX03E5F.png' alt=''>
 </p>
 
-## <a> ⚙️ Implementações  🚧 🚀 Em construção...  🚧 </a>
-
-- [ ] Modo tema Dark
-
 
 
 
